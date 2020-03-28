@@ -1,2 +1,5 @@
 tox
 pytest
+boto3
+placebo
+pytz
