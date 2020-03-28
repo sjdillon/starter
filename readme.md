@@ -1,9 +1,9 @@
 # starter
 [![Build Status](https://travis-ci.org/sjdillon/qthena.svg?branch=master)](https://travis-ci.org/sjdillon/qthena)
 
-**qthena** helps getting data from aws athena.
+**starter** a simple project to copy to get started with other projects
 
-* `athena_data_access.py` -- main class and helper functions for querying athena
+* `starter_class.py` -- example class and helper functions for querying athena
 * `boto_manager.py` -- creates and manages boto sessions and clients, allows mocking playback and recording.  Used in the unit tests.
 
 # What is it?
@@ -54,9 +54,14 @@ ________________________________________________________________________________
 
 
 
-
+# install 
+locally
 ```buildoutcfg
 pip install -e .
+```
+or from github
+```buildoutcfg
+pip install git+https://github.com/sjdillon/starter.git
 ```
 
 # show classes
