@@ -1,5 +1,5 @@
 # starter
-[![Build Status](https://travis-ci.org/sjdillon/qthena.svg?branch=master)](https://travis-ci.org/sjdillon/qthena)
+[![Build Status](https://travis-ci.org/sjdillon/starter.svg?branch=master)](https://travis-ci.org/sjdillon/starter)
 
 **starter** a simple project to copy to get started with other projects
 
